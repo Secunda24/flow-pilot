@@ -1,0 +1,12 @@
+.next
+node_modules
+.tools
+.env
+.env.local
+.env.production
+dist
+coverage
+*.log
+.flowpilot-dev.log
+.flowpilot-dev.err.log
+*.pid
